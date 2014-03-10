@@ -12,3 +12,6 @@ http://janpaepke.github.io/ScrollMagic/
 
 https://github.com/angular
 
+https://github.com/sindresorhus/pageres
+
+

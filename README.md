@@ -17,5 +17,7 @@ https://github.com/sindresorhus/pageres
 
 http://sindresorhus.com/screenfull.js/
 
+https://github.com/eyecatchup/SEOstats
+
 
 

@@ -15,3 +15,7 @@ https://github.com/angular
 https://github.com/sindresorhus/pageres
 
 
+http://sindresorhus.com/screenfull.js/
+
+
+

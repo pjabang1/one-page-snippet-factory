@@ -28,6 +28,10 @@ A selection of my images from India. Shot with Canon 5D mk3 with 24-70mm 2.8 II 
 
 http://registry.gimp.org/node/28463
 
+http://www.smashingapps.com/2012/10/03/55-amazingly-creative-free-bokeh-textures-for-designers.html
+
+http://www.gobokeh.com/
+
 
 
 
